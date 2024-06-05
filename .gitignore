@@ -5,3 +5,10 @@ Logs/
 Library/
 .git/
 Temp/
+.idea/
+/AmplifyShaderEditor.Samples.BuiltIn.csproj
+/AmplifyShaderEditor.csproj
+/Assembly-CSharp.csproj
+obj/
+
+
